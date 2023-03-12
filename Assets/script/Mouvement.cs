@@ -20,6 +20,10 @@ public class Mouvement : MonoBehaviour
     public Transform groundedLeft;
     public Transform groundedRight;
 
+    public Animator animator;
+
+    public SpriteRenderer spriteRenderer;
+
     private void Update()
     {
         if (Input.GetButtonDown("Jump") && isGrounded)
@@ -36,6 +40,11 @@ public class Mouvement : MonoBehaviour
 
 
         MovePlayer(horizontalMovement);
+        
+        Flip(var.velocity.x);
+
+        float characterVelocity = Mathf.Abs(var.velocity.x);
+        animator.SetFloat("Speed",characterVelocity);
     }
 
     void MovePlayer(float _horizontalMovement)
@@ -50,6 +59,18 @@ public class Mouvement : MonoBehaviour
         }
         
         
+    }
+
+    void Flip(float velo)
+    {
+        if (velo < -0.1f)
+        {
+            spriteRenderer.flipX = true;
+        }
+        else
+        {
+            spriteRenderer.flipX = false;
+        }
     }
     
 }

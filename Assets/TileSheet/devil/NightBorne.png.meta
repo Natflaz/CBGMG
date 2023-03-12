@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c5f4335a2626581da8f5f2d84207d684
+guid: 4e1025cc8865b4316bb962b2d811ebc3
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -70,7 +70,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 2
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -117,13 +117,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Ranger Base Spritesheet_0
+      name: NightBorne_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 155
-        width: 11
-        height: 15
+        x: 19
+        y: 336
+        width: 35
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,124 +131,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9cc4cffb4953f823897654cde26bce8d
-      internalID: 117117087
+      spriteID: e17cafd6c6880e02e9cbae41d279a860
+      internalID: 638900321
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ranger Base Spritesheet_1
+      name: NightBorne_1
       rect:
         serializedVersion: 2
-        x: 5
-        y: 163
-        width: 5
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ef33b258a55934ecda659c93cfac9248
-      internalID: 1460176849
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_2
-      rect:
-        serializedVersion: 2
-        x: 11
-        y: 163
-        width: 5
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 44da148535a0a7a8f8d5179f7f615c33
-      internalID: 1989097875
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_3
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 163
-        width: 5
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 646bbb6605009cc33abb32f4e5e6a445
-      internalID: -1657840001
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_4
-      rect:
-        serializedVersion: 2
-        x: 60
-        y: 144
-        width: 25
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 71be8ffe83db74b9091f9e9cdee46dec
-      internalID: 621585494
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_5
-      rect:
-        serializedVersion: 2
-        x: 108
-        y: 144
-        width: 25
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 374ae56edfb6650469371b6cb8cec6ab
-      internalID: 1761950511
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_6
-      rect:
-        serializedVersion: 2
-        x: 156
-        y: 144
-        width: 25
+        x: 99
+        y: 336
+        width: 35
         height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -257,19 +152,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98ab209a7d528fa5d90c897111e7d4ac
-      internalID: -1327422742
+      spriteID: 5d263fdbfee3479939b6f38d64cbe5a8
+      internalID: -1385769609
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ranger Base Spritesheet_7
+      name: NightBorne_2
       rect:
         serializedVersion: 2
-        x: 204
-        y: 144
-        width: 26
+        x: 179
+        y: 336
+        width: 35
         height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -278,19 +173,292 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32347267da60a6de5bda52c3691e93d9
-      internalID: -342164611
+      spriteID: 2128d9ca82256249c80d667bae6f5a8c
+      internalID: 28354228
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ranger Base Spritesheet_8
+      name: NightBorne_3
       rect:
         serializedVersion: 2
-        x: 252
-        y: 144
-        width: 25
+        x: 259
+        y: 336
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0786889c4c97e2ab1981fa5d03de84
+      internalID: -1001010480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_4
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 336
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b659c38a8596736f9b4e880389b4c92
+      internalID: -1919145604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_5
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 336
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be62170eaa52c7739a046dd41b0e2d14
+      internalID: -2031439175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_6
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 336
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10ddf82ed1fa7ef0b1325103ce8357d
+      internalID: -1340168469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_7
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 336
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719c8e115fe353832b35e78a825f013e
+      internalID: 859691724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_8
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 336
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2837e4b3da74b524985b0f78ab56db1
+      internalID: -1516718365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 257
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a62d769854b99017a381753a7593dc9
+      internalID: -1992067393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 257
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058d4e3e00b820e3c9d51d789d079a78
+      internalID: -87547131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 256
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e1a4246e7ca38608e4e056085dde9a
+      internalID: -1746609918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_12
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 257
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5444bbed0aff50fa2949218640215d
+      internalID: 8760606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 256
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a02ec420aa3e4bb9152520d7426274
+      internalID: -1007486080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_14
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 258
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30418cb12ce12d2ba8b589228e69be45
+      internalID: -1637369529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 176
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78f8df0d43dedd27bd9e7dc66e0a25c
+      internalID: -371023342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 176
+        width: 32
         height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -299,20 +467,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9479b41d3acb9ac668ef2fd7fb5959f2
-      internalID: 703772295
+      spriteID: 19529fd08dbd666d6857ecfe76f020a7
+      internalID: -679074436
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ranger Base Spritesheet_9
+      name: NightBorne_17
       rect:
         serializedVersion: 2
-        x: 300
-        y: 144
+        x: 188
+        y: 176
         width: 24
-        height: 30
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -320,209 +488,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bdeb9e2a182448389b89a696600c1dae
-      internalID: -1099377995
+      spriteID: b18731eba1ccb4e5092e7b2c654b4a8a
+      internalID: -496220661
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ranger Base Spritesheet_10
+      name: NightBorne_18
       rect:
         serializedVersion: 2
-        x: 8
-        y: 147
-        width: 8
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1e4a1250e8e7014a5a790899365a53df
-      internalID: -898479655
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_11
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 155
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8801b35ffa4e8f2daac785f4fd6d61f1
-      internalID: -52607838
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_12
-      rect:
-        serializedVersion: 2
-        x: 25
-        y: 155
-        width: 5
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5ea3482368d7c4729aaef7ba73176720
-      internalID: 538357277
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_13
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 147
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e803631136fd2d5529d5ca1091b62e0b
-      internalID: 788367870
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_14
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 147
-        width: 11
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bcf80f011736a13dd86fb30b0b9f2231
-      internalID: 1186835743
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_15
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 113
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8c2a83785b85937818d5dd8e316d63ce
-      internalID: 1029847179
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_16
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 113
-        width: 8
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fb70a5ea13e1be3e8946ad1eeb0b60bb
-      internalID: -33476316
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_17
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 113
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e9f3f15ca9baebe71bcf07c41463d72c
-      internalID: -107834760
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_18
-      rect:
-        serializedVersion: 2
-        x: 60
-        y: 96
-        width: 25
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f5202aefa648bc5769f619ebb3985759
-      internalID: -311256084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_19
-      rect:
-        serializedVersion: 2
-        x: 108
-        y: 97
+        x: 268
+        y: 176
         width: 23
-        height: 32
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -530,186 +509,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 031db2b7be2eae25fbad237637bb73e5
-      internalID: 1290563859
+      spriteID: 9f2d25d8554f97d888221a0fe8e3a2d7
+      internalID: -2100981930
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ranger Base Spritesheet_20
+      name: NightBorne_19
       rect:
         serializedVersion: 2
-        x: 154
-        y: 99
-        width: 23
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4d340bb73fb084e77a3cc5f8c5d135c6
-      internalID: 1081234080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_21
-      rect:
-        serializedVersion: 2
-        x: 204
-        y: 96
-        width: 23
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1ed5405912bcd2ba8966702c9ba3a463
-      internalID: 2063759693
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_22
-      rect:
-        serializedVersion: 2
-        x: 252
-        y: 96
-        width: 25
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4c28611840527a44eaebb6db884c39ad
-      internalID: -2095665266
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_23
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 97
-        width: 25
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cbd76afe94ae45293aeac227ae39fd63
-      internalID: -1713130928
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_24
-      rect:
-        serializedVersion: 2
-        x: 348
-        y: 99
-        width: 25
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 013484ae2bafb7fd88e0538c7649fb20
-      internalID: -676029779
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_25
-      rect:
-        serializedVersion: 2
-        x: 396
-        y: 96
-        width: 25
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3e7074aa376d9eaa8aacecacab36c243
-      internalID: 1672056934
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_26
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 105
-        width: 11
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3c206c6a62208724b8f1b5ef9028d39a
-      internalID: 78861191
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_27
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 97
-        width: 8
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7fd5b7f3c01009db2b4f31b93900b7ed
-      internalID: -1570209466
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_28
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 105
+        x: 285
+        y: 188
         width: 7
         height: 7
       alignment: 0
@@ -719,188 +530,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e4a6a0b32449fa6018249120985a0640
-      internalID: -929487000
+      spriteID: 8cee4f66f156d6428b4b32ddc5f31d1f
+      internalID: -1168309877
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ranger Base Spritesheet_29
+      name: NightBorne_20
       rect:
         serializedVersion: 2
-        x: 25
-        y: 105
-        width: 5
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 157e05c6d136726129420eedaee9dafd
-      internalID: 1382839808
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_30
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 97
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1208c2432323e3913b74326c31bcac57
-      internalID: -1157373645
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_31
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 97
-        width: 11
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 30067b5252960fdc7b3b03111d071823
-      internalID: 1096868376
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_32
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 65
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: af9b8acab045f52ecbee666791f185f4
-      internalID: 1194025244
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_33
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 65
-        width: 8
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 16816d6acbff13eb887f16ffaaf9e407
-      internalID: -250103109
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_34
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 65
-        width: 9
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2d49d4668bb40b751bb2d97a7e34a23a
-      internalID: -1282879240
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_35
-      rect:
-        serializedVersion: 2
-        x: 27
-        y: 65
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 458bbc9ae5bc3fc7291ab7231c9efb3c
-      internalID: -2010573823
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_36
-      rect:
-        serializedVersion: 2
-        x: 60
-        y: 48
-        width: 25
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: af0e24737747905d5bc259a378b38560
-      internalID: 409287459
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_37
-      rect:
-        serializedVersion: 2
-        x: 108
-        y: 48
+        x: 345
+        y: 176
         width: 26
-        height: 34
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -908,20 +551,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68e4d362afc2908ba8d486b236fcb2ce
-      internalID: -1843150795
+      spriteID: 00d02903093d89f7faa2adfb759c987c
+      internalID: 2137146148
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ranger Base Spritesheet_38
+      name: NightBorne_21
       rect:
         serializedVersion: 2
-        x: 154
-        y: 56
-        width: 29
-        height: 30
+        x: 424
+        y: 176
+        width: 27
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -929,20 +572,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e15eea02d037131dcb07c58b300eeba0
-      internalID: 983016980
+      spriteID: ba623d7629d7e6ed2afbb80b51b11c93
+      internalID: -959069462
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ranger Base Spritesheet_39
+      name: NightBorne_22
       rect:
         serializedVersion: 2
-        x: 202
-        y: 56
-        width: 29
-        height: 31
+        x: 504
+        y: 176
+        width: 27
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -950,20 +593,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f527f6d54ebcc970bb28e1c534fcd51a
-      internalID: -1119689741
+      spriteID: 8f489d7cc73f6fa6fa3296784e99146b
+      internalID: -670255205
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ranger Base Spritesheet_40
+      name: NightBorne_23
       rect:
         serializedVersion: 2
-        x: 250
-        y: 53
-        width: 29
-        height: 32
+        x: 584
+        y: 176
+        width: 27
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -971,19 +614,61 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dbca687824494a667bdc30ec3a42b618
-      internalID: 2056404779
+      spriteID: 09534bdb94c54006dbf7ebea73d5a841
+      internalID: 999542319
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ranger Base Spritesheet_41
+      name: NightBorne_24
       rect:
         serializedVersion: 2
-        x: 298
-        y: 48
-        width: 29
+        x: 664
+        y: 176
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382fe880fc10a2a40acd437149851115
+      internalID: -982698788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_25
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 170
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2a47e27aafa443291fa258b9cc42e5
+      internalID: -2047109275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_26
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 173
+        width: 46
         height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -992,20 +677,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7739a3336d71e717bb002c1acd664597
-      internalID: -1938294970
+      spriteID: adffdc5d608b136b3bf634464f73b7c1
+      internalID: -544050881
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ranger Base Spritesheet_42
+      name: NightBorne_27
       rect:
         serializedVersion: 2
-        x: 349
-        y: 48
-        width: 24
-        height: 24
+        x: 901
+        y: 176
+        width: 33
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1013,18 +698,564 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa3e21e9917935f109d832eaecc7b947
-      internalID: -2118817811
+      spriteID: e8822f6aed5483d9dbd9b72e152da772
+      internalID: -2006976480
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ranger Base Spritesheet_43
+      name: NightBorne_28
       rect:
         serializedVersion: 2
-        x: 397
-        y: 48
+        x: 21
+        y: 96
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8683bf01c1992bf42a57c117ac9c5008
+      internalID: -2113452444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_29
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 96
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad994f9418395529c8754700115819ea
+      internalID: 1938848686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_30
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 96
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053e6434229b1bd7faf4ddfd800e64df
+      internalID: 1142622569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_31
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 96
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390ce69853006e9719a917c47f57df68
+      internalID: 227032248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_32
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 96
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e75869735716c03884a1a0f6a52e9d9
+      internalID: 1055726586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_33
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 2
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bea276aba94e06a68c367b5bd199a73
+      internalID: -1126930581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_34
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 2
+        width: 71
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6fd9408d4aa00d394267a3f0d4a214
+      internalID: 2058443141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_35
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 3
+        width: 71
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a11beaa44c424f2385a994aa66c8c7b
+      internalID: 1565802384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_36
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 52
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f8c554c8bc1487abecf911531a590e
+      internalID: 406622160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_37
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 7
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde60114ad0db7731902c78d2eeada59
+      internalID: 989418998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_38
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 53
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c4907552bbd1ebf9e7e57882a0c7f7
+      internalID: -1041077936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_39
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 9
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560d802629b8f9138b1a145427ec3fad
+      internalID: -219631599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_40
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6ac5ef3f16253308a465b760b929f3
+      internalID: -248653256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 16
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bd0e42dfb7d1484b520dd436dc136e
+      internalID: 1542114725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_42
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 16
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d496824c6a0258ba7ab42b76768c08f0
+      internalID: -371542989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_43
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 16
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdaa568816b276a09b2b97ff10e93b6f
+      internalID: 297005650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_44
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 16
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71c5235854da206e9842f257979bd83
+      internalID: -546693425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_45
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 16
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf88854e3b16337ebd1643be6345c75
+      internalID: -374596207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_46
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 16
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8223651d62e1591a276361abd959b6
+      internalID: -649060500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_47
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 16
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cd62ca9cf4a68cf9b886d65c3b7daa
+      internalID: 164373469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_48
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 16
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed2a803e38340aa29a69138fa8a7449
+      internalID: -1740666546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_49
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 10
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea73c5fda96d8e7491d8863ab5032f9
+      internalID: 496728836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_50
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 10
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd069d1784fac046ca2dc741c4b05f39
+      internalID: -1045614693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_51
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 10
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e509920e2c7e822ac9cfada934861e
+      internalID: 547261033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_52
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 13
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ac0aa4241f64c54ad636261e684b1c
+      internalID: -185509021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_53
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 17
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985090d8b893ea6e7b669df93287f3af
+      internalID: 616021182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne_54
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 18
         width: 26
         height: 25
       alignment: 0
@@ -1034,20 +1265,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44ecd9d71b575fef2be2e0c41765cd3e
-      internalID: -827851162
+      spriteID: 0af0fdf31bb0a28ad9c229cfc0dad6df
+      internalID: -902888884
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ranger Base Spritesheet_44
+      name: NightBorne_55
       rect:
         serializedVersion: 2
-        x: 1
-        y: 57
-        width: 11
-        height: 7
+        x: 1628
+        y: 25
+        width: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1055,20 +1286,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ab40a078f0eda521852fe8137791891
-      internalID: -1640062762
+      spriteID: e0f180a3d7ce782c4b4ce1fa6191b8f3
+      internalID: -914966103
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ranger Base Spritesheet_45
+      name: NightBorne_56
       rect:
         serializedVersion: 2
-        x: 8
-        y: 49
-        width: 8
-        height: 15
+        x: 1705
+        y: 24
+        width: 91
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1076,18 +1307,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a22e0b6115aee1208d4e4045b071655
-      internalID: 1573604916
+      spriteID: 68181054f596818bc852e71ec93da568
+      internalID: -1548127743
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ranger Base Spritesheet_46
+      name: NightBorne_57
       rect:
         serializedVersion: 2
-        x: 17
-        y: 57
+        x: 1176
+        y: 2
         width: 7
         height: 7
       alignment: 0
@@ -1097,386 +1328,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d3006f4301e2fb10bf80e921a6ba577
-      internalID: -1514193499
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_47
-      rect:
-        serializedVersion: 2
-        x: 25
-        y: 57
-        width: 5
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 20d5b6835f95d14b98fdfa993ad92eb3
-      internalID: 107282561
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_48
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 49
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 094530954bc7f870b98bb30ea7e2b1fc
-      internalID: -518808263
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_49
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 49
-        width: 11
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dd44ffc8a23e9e0fc846d2dcd2be35bd
-      internalID: 1857208722
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_50
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 9
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6358cfda013d3b21e88d814b3674650f
-      internalID: -222888165
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_51
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 9
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a69bac9b016dd653b92a5c74f989ae50
-      internalID: 1124184578
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_52
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 9
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1a07709e7c6e182b6bd5c38de4803498
-      internalID: 2043835018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_53
-      rect:
-        serializedVersion: 2
-        x: 22
-        y: 9
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fb3e31b54c18916ec91a2fcd4f3c26d4
-      internalID: -147616289
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_54
-      rect:
-        serializedVersion: 2
-        x: 29
-        y: 9
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cffd8a98ca87593a385d42ae016d201b
-      internalID: 1337084823
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_55
-      rect:
-        serializedVersion: 2
-        x: 59
-        y: 0
-        width: 27
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3f8aa9e749fe2c67286a48ab455519d1
-      internalID: -1169617419
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_56
-      rect:
-        serializedVersion: 2
-        x: 108
-        y: 0
-        width: 23
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 52bb7e6b22c5837d1b6411842918dbfd
-      internalID: -157966388
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_57
-      rect:
-        serializedVersion: 2
-        x: 156
-        y: 0
-        width: 33
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d738045c38a4c14bbe46238c1ef4a0b
-      internalID: -37847496
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_58
-      rect:
-        serializedVersion: 2
-        x: 203
-        y: 0
-        width: 30
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 471f705a0a826e1c1b7f60073f3b5c7e
-      internalID: 1815215218
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_59
-      rect:
-        serializedVersion: 2
-        x: 251
-        y: 0
-        width: 30
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e2273dd7c16f08d82a12e7ac5b94ee00
-      internalID: 1887959381
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_60
-      rect:
-        serializedVersion: 2
-        x: 298
-        y: 0
-        width: 26
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4890a46e74330fc6a887cb759603d652
-      internalID: 1377317456
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_61
-      rect:
-        serializedVersion: 2
-        x: 347
-        y: 0
-        width: 26
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 96b1dd39e586a5e77b5349ac43ab6368
-      internalID: 720413164
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_62
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 1
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8cffb4df7a06ef05288daab39122e780
-      internalID: 116655316
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_63
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 1
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 169296aa3df91390fbe34346a06b3ad9
-      internalID: 1645198543
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ranger Base Spritesheet_64
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 1
-        width: 11
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ef6a26e76e1682bfabf7a2e331d89beb
-      internalID: -879394719
+      spriteID: 06f7e1fcd45a734b280a174a3a147e4f
+      internalID: 1646799212
       vertices: []
       indices: 
       edges: []
@@ -1492,71 +1345,64 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Ranger Base Spritesheet_0: 117117087
-      Ranger Base Spritesheet_1: 1460176849
-      Ranger Base Spritesheet_10: -898479655
-      Ranger Base Spritesheet_11: -52607838
-      Ranger Base Spritesheet_12: 538357277
-      Ranger Base Spritesheet_13: 788367870
-      Ranger Base Spritesheet_14: 1186835743
-      Ranger Base Spritesheet_15: 1029847179
-      Ranger Base Spritesheet_16: -33476316
-      Ranger Base Spritesheet_17: -107834760
-      Ranger Base Spritesheet_18: -311256084
-      Ranger Base Spritesheet_19: 1290563859
-      Ranger Base Spritesheet_2: 1989097875
-      Ranger Base Spritesheet_20: 1081234080
-      Ranger Base Spritesheet_21: 2063759693
-      Ranger Base Spritesheet_22: -2095665266
-      Ranger Base Spritesheet_23: -1713130928
-      Ranger Base Spritesheet_24: -676029779
-      Ranger Base Spritesheet_25: 1672056934
-      Ranger Base Spritesheet_26: 78861191
-      Ranger Base Spritesheet_27: -1570209466
-      Ranger Base Spritesheet_28: -929487000
-      Ranger Base Spritesheet_29: 1382839808
-      Ranger Base Spritesheet_3: -1657840001
-      Ranger Base Spritesheet_30: -1157373645
-      Ranger Base Spritesheet_31: 1096868376
-      Ranger Base Spritesheet_32: 1194025244
-      Ranger Base Spritesheet_33: -250103109
-      Ranger Base Spritesheet_34: -1282879240
-      Ranger Base Spritesheet_35: -2010573823
-      Ranger Base Spritesheet_36: 409287459
-      Ranger Base Spritesheet_37: -1843150795
-      Ranger Base Spritesheet_38: 983016980
-      Ranger Base Spritesheet_39: -1119689741
-      Ranger Base Spritesheet_4: 621585494
-      Ranger Base Spritesheet_40: 2056404779
-      Ranger Base Spritesheet_41: -1938294970
-      Ranger Base Spritesheet_42: -2118817811
-      Ranger Base Spritesheet_43: -827851162
-      Ranger Base Spritesheet_44: -1640062762
-      Ranger Base Spritesheet_45: 1573604916
-      Ranger Base Spritesheet_46: -1514193499
-      Ranger Base Spritesheet_47: 107282561
-      Ranger Base Spritesheet_48: -518808263
-      Ranger Base Spritesheet_49: 1857208722
-      Ranger Base Spritesheet_5: 1761950511
-      Ranger Base Spritesheet_50: -222888165
-      Ranger Base Spritesheet_51: 1124184578
-      Ranger Base Spritesheet_52: 2043835018
-      Ranger Base Spritesheet_53: -147616289
-      Ranger Base Spritesheet_54: 1337084823
-      Ranger Base Spritesheet_55: -1169617419
-      Ranger Base Spritesheet_56: -157966388
-      Ranger Base Spritesheet_57: -37847496
-      Ranger Base Spritesheet_58: 1815215218
-      Ranger Base Spritesheet_59: 1887959381
-      Ranger Base Spritesheet_6: -1327422742
-      Ranger Base Spritesheet_60: 1377317456
-      Ranger Base Spritesheet_61: 720413164
-      Ranger Base Spritesheet_62: 116655316
-      Ranger Base Spritesheet_63: 1645198543
-      Ranger Base Spritesheet_64: -879394719
-      Ranger Base Spritesheet_7: -342164611
-      Ranger Base Spritesheet_8: 703772295
-      Ranger Base Spritesheet_9: -1099377995
+      NightBorne_0: 638900321
+      NightBorne_1: -1385769609
+      NightBorne_10: -87547131
+      NightBorne_11: -1746609918
+      NightBorne_12: 8760606
+      NightBorne_13: -1007486080
+      NightBorne_14: -1637369529
+      NightBorne_15: -371023342
+      NightBorne_16: -679074436
+      NightBorne_17: -496220661
+      NightBorne_18: -2100981930
+      NightBorne_19: -1168309877
+      NightBorne_2: 28354228
+      NightBorne_20: 2137146148
+      NightBorne_21: -959069462
+      NightBorne_22: -670255205
+      NightBorne_23: 999542319
+      NightBorne_24: -982698788
+      NightBorne_25: -2047109275
+      NightBorne_26: -544050881
+      NightBorne_27: -2006976480
+      NightBorne_28: -2113452444
+      NightBorne_29: 1938848686
+      NightBorne_3: -1001010480
+      NightBorne_30: 1142622569
+      NightBorne_31: 227032248
+      NightBorne_32: 1055726586
+      NightBorne_33: -1126930581
+      NightBorne_34: 2058443141
+      NightBorne_35: 1565802384
+      NightBorne_36: 406622160
+      NightBorne_37: 989418998
+      NightBorne_38: -1041077936
+      NightBorne_39: -219631599
+      NightBorne_4: -1919145604
+      NightBorne_40: -248653256
+      NightBorne_41: 1542114725
+      NightBorne_42: -371542989
+      NightBorne_43: 297005650
+      NightBorne_44: -546693425
+      NightBorne_45: -374596207
+      NightBorne_46: -649060500
+      NightBorne_47: 164373469
+      NightBorne_48: -1740666546
+      NightBorne_49: 496728836
+      NightBorne_5: -2031439175
+      NightBorne_50: -1045614693
+      NightBorne_51: 547261033
+      NightBorne_52: -185509021
+      NightBorne_53: 616021182
+      NightBorne_54: -902888884
+      NightBorne_55: -914966103
+      NightBorne_56: -1548127743
+      NightBorne_57: 1646799212
+      NightBorne_6: -1340168469
+      NightBorne_7: 859691724
+      NightBorne_8: -1516718365
+      NightBorne_9: -1992067393
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
